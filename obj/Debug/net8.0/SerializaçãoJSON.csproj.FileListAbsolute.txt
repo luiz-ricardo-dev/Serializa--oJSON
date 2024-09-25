@@ -1,0 +1,17 @@
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\bin\Debug\net8.0\SerializaçãoJSON.exe
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\bin\Debug\net8.0\SerializaçãoJSON.deps.json
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\bin\Debug\net8.0\SerializaçãoJSON.runtimeconfig.json
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\bin\Debug\net8.0\SerializaçãoJSON.dll
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\bin\Debug\net8.0\SerializaçãoJSON.pdb
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\SerializaçãoJSON.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\SerializaçãoJSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\SerializaçãoJSON.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\SerializaçãoJSON.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\SerializaçãoJSON.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\Serializ.79A8921D.Up2Date
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\SerializaçãoJSON.dll
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\refint\SerializaçãoJSON.dll
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\SerializaçãoJSON.pdb
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\SerializaçãoJSON.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\ref\SerializaçãoJSON.dll
