@@ -15,3 +15,4 @@ C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\refint\Ser
 C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\SerializaçãoJSON.pdb
 C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\SerializaçãoJSON.genruntimeconfig.cache
 C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\ref\SerializaçãoJSON.dll
+C:\Users\usuario\Desktop\Projetos\SerializaçãoJSON\obj\Debug\net8.0\SerializaçãoJSON.sourcelink.json
